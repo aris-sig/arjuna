@@ -22,12 +22,21 @@ Use the cards shortcode to display highlighted content on your page.
 {{< spacer >}}
 [Get our app](#)
 {{< /card >}}
+
 {{< card >}}
 ### Our special feature
 ![Alt text](https://cellar-c2.services.clever-cloud.com/documentation/doc-screenshot.png "Optional title")
 {{< spacer >}}
 [See our special feature](#)
 {{< /card >}}
+
+{{< card >}}
+### Our third chart
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSGaBFxtovTXqCvfRUd8jrMS7Kvw0QULVjbaLcs_BBYaVZD7i9WWf57kI1Unh2MmLp9Tttk_uwQHaF/pubchart?oid=1238429238&format=interactive" width="150" height="100" frameborder="0"></iframe>
+{{< spacer >}}
+[See our special feature](#)
+{{< /card >}}
+
 {{< /cards >}}
 
 ## Plotly Chart
