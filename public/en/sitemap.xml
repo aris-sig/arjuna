@@ -105,6 +105,8 @@
   </url><url>
     <loc>/test_content/</loc>
   </url><url>
+    <loc>/powerbi/</loc>
+  </url><url>
     <loc>/search/</loc>
     <xhtml:link
                 rel="alternate"

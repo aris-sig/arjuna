@@ -25,7 +25,7 @@ Use the cards shortcode to display highlighted content on your page.
 
 {{< card >}}
 ### Our special feature
-![Alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSGaBFxtovTXqCvfRUd8jrMS7Kvw0QULVjbaLcs_BBYaVZD7i9WWf57kI1Unh2MmLp9Tttk_uwQHaF/pubchart?oid=1750228765&format=interactive "Optional title")
+![Alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSGaBFxtovTXqCvfRUd8jrMS7Kvw0QULVjbaLcs_BBYaVZD7i9WWf57kI1Unh2MmLp9Tttk_uwQHaF/pubchart?oid=1750228765&format=image "Optional title")
 {{< spacer >}}
 [See our special feature](#)
 {{< /card >}}
