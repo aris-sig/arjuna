@@ -31,6 +31,9 @@
     <loc>/post/2024-10-21-my-first-post/</loc>
     <lastmod>2024-10-21T00:00:00-07:00</lastmod>
   </url><url>
+    <loc>/powerbi/</loc>
+    <lastmod>2023-11-22T13:13:13+08:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
@@ -104,8 +107,6 @@
     <loc>/faq/</loc>
   </url><url>
     <loc>/test_content/</loc>
-  </url><url>
-    <loc>/powerbi/</loc>
   </url><url>
     <loc>/search/</loc>
     <xhtml:link
