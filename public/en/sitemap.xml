@@ -119,6 +119,8 @@
   </url><url>
     <loc>/demo3/</loc>
   </url><url>
+    <loc>/showcase/</loc>
+  </url><url>
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"

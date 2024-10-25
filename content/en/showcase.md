@@ -1,11 +1,15 @@
 ---
-description: A demo page for the various markup elements in the Dot Org theme.
+description: A demo showcase
 images:
 - https://via.placeholder.com/250x200/d9d9d9/000000
-title: demo 2
+title: Showcase
 ---
 
+<div class="hx-mt-4"></div>
 
+<p class="hx-mb-12 hx-text-center hx-text-lg hx-text-gray-500 dark:hx-text-gray-400">
+DAFTAR DASHBOARD EXPRO
+</p>
 
 ## Cards
 
@@ -27,17 +31,3 @@ Use the cards shortcode to display highlighted content on your page.
 {{< /cards >}}
 
 ## Plotly Chart
-
-<div id="chart"></div>
-
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var data = [{
-            x: [1, 2, 3],
-            y: [4, 5, 6],
-            type: 'scatter'
-        }];
-        Plotly.newPlot('chart', data);
-    });
-</script>
