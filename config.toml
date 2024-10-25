@@ -1,0 +1,8 @@
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.gfm]
+        task_lists = true
+        auto_heading_ids = true
+      [markup.goldmark.extensions.rawhtml]
+        enable = true
