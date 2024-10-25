@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>Posts on Site Title</title>
-        <link>http://localhost:1313/post/</link>
+        <link>/post/</link>
         <description>Recent content in Site Title</description>
 
          
@@ -9,7 +9,7 @@
                  
                 <item>
                     <title>Three blocks markdown</title>
-                    <link>http://localhost:1313/post/2024-10-24-three-blocks-markdown/</link>
+                    <link>/post/2024-10-24-three-blocks-markdown/</link>
                     <pubDate>Thu, 24 Oct 2024 00:00:00 -0700</pubDate>
                     <description>&lt;h1 id=&#34;my-webpage-with-three-columns&#34;&gt;My Webpage with Three Columns&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my simple webpage! Below are three columns or blocks with text inside each.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
                 </item>
@@ -18,7 +18,7 @@
                  
                 <item>
                     <title>contoh iframe</title>
-                    <link>http://localhost:1313/post/2024-10-22-contoh-iframe/</link>
+                    <link>/post/2024-10-22-contoh-iframe/</link>
                     <pubDate>Tue, 22 Oct 2024 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Page content here&lt;/p&gt;&#xA;&lt;h1 id=&#34;outsource-service-management-report&#34;&gt;Outsource Service Management Report&lt;/h1&gt;&#xA;&lt;p&gt;This page embeds a Power BI report on &lt;strong&gt;Outsource Service Management&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;report-section&#34;&gt;Report Section&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
                 </item>
@@ -27,7 +27,7 @@
                  
                 <item>
                     <title>my-first-post</title>
-                    <link>http://localhost:1313/post/2024-10-21-my-first-post/</link>
+                    <link>/post/2024-10-21-my-first-post/</link>
                     <pubDate>Mon, 21 Oct 2024 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;This page presents a live Power BI report that provides insights into our &lt;strong&gt;Outsource Service Management&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;report-overview&#34;&gt;Report Overview&lt;/h2&gt;&#xA;&lt;p&gt;Below is an interactive Power BI report. You can use the filters and interact with the data directly on this page.&lt;/p&gt;&#xA;&lt;h1 id=&#34;sales-over-time&#34;&gt;Sales Over Time&lt;/h1&gt;&#xA;&lt;p&gt;Below is a Plotly chart showing sales over time.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;about-the-report&#34;&gt;About the Report&lt;/h2&gt;&#xA;&lt;p&gt;The report contains key metrics related to:&lt;/p&gt;</description>
                 </item>

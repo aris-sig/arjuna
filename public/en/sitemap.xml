@@ -2,135 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/faq/what-is-hugo/</loc>
+    <loc>/faq/what-is-hugo/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq2/what-is-hugo/</loc>
+    <loc>/faq2/what-is-hugo/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-10-24-three-blocks-markdown/</loc>
+    <loc>/post/2024-10-24-three-blocks-markdown/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-10-22-contoh-iframe/</loc>
+    <loc>/post/2024-10-22-contoh-iframe/</loc>
     <lastmod>2024-10-22T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2024-10-21-my-first-post/</loc>
+    <loc>/post/2024-10-21-my-first-post/</loc>
     <lastmod>2024-10-21T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello-world/</loc>
+    <loc>/blog/hello-world/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post/</loc>
+    <loc>/blog/old-post/</loc>
     <lastmod>2021-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-2/</loc>
+    <loc>/blog/old-post-2/</loc>
     <lastmod>2021-03-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-3/</loc>
+    <loc>/blog/old-post-3/</loc>
     <lastmod>2021-02-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-4/</loc>
+    <loc>/blog/old-post-4/</loc>
     <lastmod>2021-01-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-5/</loc>
+    <loc>/blog/old-post-5/</loc>
     <lastmod>2020-09-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-6/</loc>
+    <loc>/blog/old-post-6/</loc>
     <lastmod>2020-08-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-7/</loc>
+    <loc>/blog/old-post-7/</loc>
     <lastmod>2020-07-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-8/</loc>
+    <loc>/blog/old-post-8/</loc>
     <lastmod>2020-06-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-9/</loc>
+    <loc>/blog/old-post-9/</loc>
     <lastmod>2020-05-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/old-post-10/</loc>
+    <loc>/blog/old-post-10/</loc>
     <lastmod>2020-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/demo2/</loc>
+    <loc>/demo2/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq/long-faq/</loc>
+    <loc>/faq/long-faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq2/long-faq/</loc>
+    <loc>/faq2/long-faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/demo-page/</loc>
+    <loc>/demo-page/</loc>
   </url><url>
-    <loc>http://localhost:1313/example-page/</loc>
+    <loc>/example-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/example-page/"
+                href="/es/example-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/example-page/"
+                href="/example-page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/faq2/</loc>
+    <loc>/faq2/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/test_content/</loc>
+    <loc>/test_content/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/search/"
+                href="/es/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/demo3/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/faq/long-faq2/</loc>
+    <loc>/faq/long-faq2/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq2/long-faq2/</loc>
+    <loc>/faq2/long-faq2/</loc>
   </url>
 </urlset>
