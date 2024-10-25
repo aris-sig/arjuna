@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>Spanish home page on Título del Sitio</title>
-        <link>//localhost:4321/es/</link>
+        <link>http://localhost:1313/es/</link>
         <description>Recent content in Título del Sitio</description>
 
          

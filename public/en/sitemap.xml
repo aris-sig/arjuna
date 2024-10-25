@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/faq/what-is-hugo/</loc>
+    <loc>http://localhost:1313/faq/what-is-hugo/</loc>
   </url><url>
-    <loc>//localhost:4321/faq2/what-is-hugo/</loc>
+    <loc>http://localhost:1313/faq2/what-is-hugo/</loc>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>//localhost:4321/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/2024-10-24-three-blocks-markdown/</loc>
+    <loc>http://localhost:1313/post/2024-10-24-three-blocks-markdown/</loc>
     <lastmod>2024-10-24T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/2024-10-22-contoh-iframe/</loc>
+    <loc>http://localhost:1313/post/2024-10-22-contoh-iframe/</loc>
     <lastmod>2024-10-22T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/2024-10-21-my-first-post/</loc>
+    <loc>http://localhost:1313/post/2024-10-21-my-first-post/</loc>
     <lastmod>2024-10-21T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/hello-world/</loc>
+    <loc>http://localhost:1313/blog/hello-world/</loc>
     <lastmod>2023-08-01T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post/</loc>
+    <loc>http://localhost:1313/blog/old-post/</loc>
     <lastmod>2021-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-2/</loc>
+    <loc>http://localhost:1313/blog/old-post-2/</loc>
     <lastmod>2021-03-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-3/</loc>
+    <loc>http://localhost:1313/blog/old-post-3/</loc>
     <lastmod>2021-02-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-4/</loc>
+    <loc>http://localhost:1313/blog/old-post-4/</loc>
     <lastmod>2021-01-14T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-5/</loc>
+    <loc>http://localhost:1313/blog/old-post-5/</loc>
     <lastmod>2020-09-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-6/</loc>
+    <loc>http://localhost:1313/blog/old-post-6/</loc>
     <lastmod>2020-08-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-7/</loc>
+    <loc>http://localhost:1313/blog/old-post-7/</loc>
     <lastmod>2020-07-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-8/</loc>
+    <loc>http://localhost:1313/blog/old-post-8/</loc>
     <lastmod>2020-06-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-9/</loc>
+    <loc>http://localhost:1313/blog/old-post-9/</loc>
     <lastmod>2020-05-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/old-post-10/</loc>
+    <loc>http://localhost:1313/blog/old-post-10/</loc>
     <lastmod>2020-04-14T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/demo2/</loc>
+    <loc>http://localhost:1313/demo2/</loc>
   </url><url>
-    <loc>//localhost:4321/faq/long-faq/</loc>
+    <loc>http://localhost:1313/faq/long-faq/</loc>
   </url><url>
-    <loc>//localhost:4321/faq2/long-faq/</loc>
+    <loc>http://localhost:1313/faq2/long-faq/</loc>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>//localhost:4321/demo-page/</loc>
+    <loc>http://localhost:1313/demo-page/</loc>
   </url><url>
-    <loc>//localhost:4321/example-page/</loc>
+    <loc>http://localhost:1313/example-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/es/example-page/"
+                href="http://localhost:1313/es/example-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/example-page/"
+                href="http://localhost:1313/example-page/"
                 />
   </url><url>
-    <loc>//localhost:4321/faq2/</loc>
+    <loc>http://localhost:1313/faq2/</loc>
   </url><url>
-    <loc>//localhost:4321/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
-    <loc>//localhost:4321/test_content/</loc>
+    <loc>http://localhost:1313/test_content/</loc>
   </url><url>
-    <loc>//localhost:4321/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/es/search/"
+                href="http://localhost:1313/es/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/search/"
+                href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:4321/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:4321/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>//localhost:4321/faq/long-faq2/</loc>
+    <loc>http://localhost:1313/faq/long-faq2/</loc>
   </url><url>
-    <loc>//localhost:4321/faq2/long-faq2/</loc>
+    <loc>http://localhost:1313/faq2/long-faq2/</loc>
   </url>
 </urlset>

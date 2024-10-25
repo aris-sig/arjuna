@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>FAQs on Site Title</title>
-        <link>//localhost:4321/faq/</link>
+        <link>http://localhost:1313/faq/</link>
         <description>Recent content in Site Title</description>
 
          

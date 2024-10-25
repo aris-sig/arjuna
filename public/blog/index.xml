@@ -1,24 +1,24 @@
 <rss version="2.0">
     <channel>
         <title>Blog on Site Title</title>
-        <link>//localhost:4321/blog/</link>
+        <link>http://localhost:1313/blog/</link>
         <description>Recent content in Site Title</description>
 
          
             
                  
                 <item>
-                    <title>Hello World</title>
-                    <link>//localhost:4321/blog/hello-world/</link>
+                    <title>Halo dunia</title>
+                    <link>http://localhost:1313/blog/hello-world/</link>
                     <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
-                    <description>&lt;p&gt;Welcome to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&lt;/p&gt;&#xA;&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interactive-data-visualization&#34;&gt;Interactive Data Visualization&lt;/h2&gt;&#xA;&lt;p&gt;One of the most exciting parts of web development for me has been creating interactive charts. Below is an example of an interactive Plotly chart generated in Python.&lt;/p&gt;</description>
+                    <description>&lt;p&gt;selamat datang to our first blog post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa.&lt;/p&gt;&#xA;&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interactive-data-visualization&#34;&gt;Interactive Data Visualization&lt;/h2&gt;&#xA;&lt;p&gt;One of the most exciting parts of web development for me has been creating interactive charts. Below is an example of an interactive Plotly chart generated in Python.&lt;/p&gt;</description>
                 </item>
                 
             
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post/</link>
+                    <link>http://localhost:1313/blog/old-post/</link>
                     <pubDate>Wed, 14 Apr 2021 00:00:00 -0700</pubDate>
                     <description>&lt;h1 id=&#34;my-webpage-with-three-columns&#34;&gt;My Webpage with Three Columns&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my simple webpage! Below are three columns or blocks with text inside each.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
                 </item>
@@ -26,8 +26,8 @@
             
                  
                 <item>
-                    <title>This is an older post</title>
-                    <link>//localhost:4321/blog/old-post-2/</link>
+                    <title>This is an older post ke-1</title>
+                    <link>http://localhost:1313/blog/old-post-2/</link>
                     <pubDate>Sun, 14 Mar 2021 00:00:00 -0800</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -36,7 +36,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-3/</link>
+                    <link>http://localhost:1313/blog/old-post-3/</link>
                     <pubDate>Sun, 14 Feb 2021 00:00:00 -0800</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -45,7 +45,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-4/</link>
+                    <link>http://localhost:1313/blog/old-post-4/</link>
                     <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -54,7 +54,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-5/</link>
+                    <link>http://localhost:1313/blog/old-post-5/</link>
                     <pubDate>Mon, 14 Sep 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -63,7 +63,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-6/</link>
+                    <link>http://localhost:1313/blog/old-post-6/</link>
                     <pubDate>Fri, 14 Aug 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -72,7 +72,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-7/</link>
+                    <link>http://localhost:1313/blog/old-post-7/</link>
                     <pubDate>Tue, 14 Jul 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -81,7 +81,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-8/</link>
+                    <link>http://localhost:1313/blog/old-post-8/</link>
                     <pubDate>Sun, 14 Jun 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -90,7 +90,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-9/</link>
+                    <link>http://localhost:1313/blog/old-post-9/</link>
                     <pubDate>Thu, 14 May 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
@@ -99,7 +99,7 @@
                  
                 <item>
                     <title>This is an old post</title>
-                    <link>//localhost:4321/blog/old-post-10/</link>
+                    <link>http://localhost:1313/blog/old-post-10/</link>
                     <pubDate>Tue, 14 Apr 2020 00:00:00 -0700</pubDate>
                     <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.&lt;/p&gt;</description>
                 </item>
