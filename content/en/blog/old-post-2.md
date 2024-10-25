@@ -1,8 +1,8 @@
 ---
-author: cjyabraham
+author: ariswa
 date: "2021-03-14"
 description: ""
-title: This is an older post
+title: This is an older post ke-1
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
@@ -13,33 +13,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 One of the most exciting parts of web development for me has been creating interactive charts. Below is an example of an interactive Plotly chart generated in Python. 
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<div>
-  <div id="my-python-plot" class="plotly-graph-div" style="height: 500px; width: 100%;"></div>
-  <script type="text/javascript">
-    var trace1 = {
-      x: [1, 2, 3, 4, 5],
-      y: [10, 15, 13, 17, 22],
-      mode: 'lines+markers',
-      type: 'scatter',
-      name: 'Data Points'
-    };
 
-    var data = [trace1];
-
-    var layout = {
-      title: 'Interactive Line Chart',
-      xaxis: {
-        title: 'X Axis'
-      },
-      yaxis: {
-        title: 'Y Axis'
-      }
-    };
-
-    Plotly.newPlot('my-python-plot', data, layout);
-  </script>
-</div>
 
 ## Conclusion
 
